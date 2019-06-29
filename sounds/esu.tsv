@@ -1,0 +1,30 @@
+ISO 639-3	Voicing / Height	Secondary	Place	Manner	IPA	Latin
+esu	unvoiced		labial	stop	p	p
+esu	unvoiced		dental	stop	t	t
+esu	unvoiced		velar	stop	k	k
+esu	unvoiced		uvular	stop	q	q
+esu	voiced		labial	fricative	v	v
+esu	unvoiced		labial	fricative	f	vv
+esu	voiced	lateral	alveolar	approximant	l	l
+esu	unvoiced	lateral	alveolar	approximant	ɬ	ll
+esu	voiced		alveolar	fricative	z	s
+esu	unvoiced		alveolar	fricative	s	ss
+esu	voiced		palatal	approximant	j	y
+esu	voiceless		palato-alveolar	fricative	t͡ʃ	c
+esu	voiced		velar	fricative	ɣ	g
+esu	unvoiced		velar	fricative	x	gg
+esu	voiced	labialized	velar	fricative	ɣʷ	u͡g 
+esu	unvoiced	labialized	velar	fricative	xʷ	w
+esu	voiced		uvular	fricative	ʁ	r
+esu	unvoiced		uvular	fricative	χ	rr
+esu	voiced	labialized	uvular	fricative	ʁʷ	u͡r 
+esu	voiced		labial	nasal	m	m
+esu	unvoiced		labial	nasal	m̥	ḿ
+esu	voiced		alveolar	nasal	n	n
+esu	unvoiced		alveolar	nasal	n̥	ń
+esu	voiced		velar	nasal	ŋ	ng
+esu	unvoiced		velar	nasal	ŋ̊	ńg
+esu	close		front	vowel	i	i
+esu	close	rounded	back	vowel	u	u
+esu	mid		central	vowel	ə	e
+esu	open		front	vowel	ɑ	a
