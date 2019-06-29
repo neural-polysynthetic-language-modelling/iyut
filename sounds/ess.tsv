@@ -1,0 +1,37 @@
+ISO 639-3	Voicing / Height	Secondary	Place	Manner	IPA	Latin	Cyrillic
+ess	unvoiced		labial	stop	p	p	п
+ess	unvoiced		dental	stop	t	t	т
+ess	unvoiced		velar	stop	k	k	к
+ess	unvoiced	labialized	velar	stop	kʷ	kw	кӱ
+ess	unvoiced		uvular	stop	q	q	қ
+ess	unvoiced	labialized	uvular	stop	qʷ	qw	қӱ
+ess	voiced		labial	fricative	v	v	в
+ess	unvoiced		labial	fricative	f	f	ф
+ess	voiced	lateral	alveolar	approximant	l	l	л
+ess	unvoiced	lateral	alveolar	approximant	ɬ	ll	ль
+ess	voiced		alveolar	fricative	z	z	з
+ess	unvoiced		alveolar	fricative	s	s	с
+ess	voiced		palatal	approximant	j	y	ӥ
+ess	voiced		retroflex	approximant	ɻ	r	р
+ess	unvoiced		retroflex	approximant	ʂ	rr	ш
+ess	voiced		velar	fricative	ɣ	g	г
+ess	unvoiced		velar	fricative	x	gg	х
+ess	voiced	labialized	velar	fricative	ɣʷ	w	(г)ӱ
+ess	unvoiced	labialized	velar	fricative	xʷ	wh	хӱ
+ess	voiced		uvular	fricative	ʁ	gh	ӷ
+ess	unvoiced		uvular	fricative	χ	ghh	ҳ
+ess	voiced	labialized	uvular	fricative	ʁʷ	ghw	ӷӱ
+ess	unvoiced	labialized	uvular	fricative	χʷ	ghhw	ҳӱ
+ess	unvoiced		glottal	fricative	h	h	г
+ess	voiced		labial	nasal	m	m	м
+ess	unvoiced		labial	nasal	m̥	mm	мь
+ess	voiced		alveolar	nasal	n	n	н
+ess	unvoiced		alveolar	nasal	n̥	nn	нь
+ess	voiced		velar	nasal	ŋ	ng	ң
+ess	unvoiced		velar	nasal	ŋ̊	ngng	ңь
+ess	voiced	labialized	velar	nasal	ŋʷ	ngw	ңӱ
+ess	unvoiced	labialized	velar	nasal	ŋ̊ʷ	ngngw	ңьӱ
+ess	close		front	vowel	i	i	и
+ess	close	rounded	back	vowel	u	u	y
+ess	mid		central	vowel	ə	e	ы
+ess	open		front	vowel	ɑ	a	а
