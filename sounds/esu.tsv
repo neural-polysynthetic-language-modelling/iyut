@@ -10,7 +10,7 @@ esu	unvoiced	lateral	alveolar	approximant	ɬ	ll
 esu	voiced		alveolar	fricative	z	s
 esu	unvoiced		alveolar	fricative	s	ss
 esu	voiced		palatal	approximant	j	y
-esu	voiceless		palato-alveolar	fricative	t͡ʃ	c
+esu	voiceless		palato-alveolar	affricate	t͡ʃ	c
 esu	voiced		velar	fricative	ɣ	g
 esu	unvoiced		velar	fricative	x	gg
 esu	voiced	labialized	velar	fricative	ɣʷ	u͡g 
@@ -25,6 +25,6 @@ esu	unvoiced		alveolar	nasal	n̥	ń
 esu	voiced		velar	nasal	ŋ	ng
 esu	unvoiced		velar	nasal	ŋ̊	ńg
 esu	close		front	vowel	i	i
-esu	close	rounded	back	vowel	u	u
+esu	close	labialized	back	vowel	u	u
 esu	mid		central	vowel	ə	e
 esu	open		front	vowel	ɑ	a
