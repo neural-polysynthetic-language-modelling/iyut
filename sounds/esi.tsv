@@ -4,6 +4,7 @@ esi	unvoiced		alveolar	stop	t	t
 esi	unvoiced		palatal	stop	c	t
 esi	unvoiced		velar	stop	k	k
 esi	unvoiced		uvular	stop	q	q
+esi	unvoiced		palatal	affricate	tʃ	ch
 esi	voiced		labial	fricative	v	v
 esi	unvoiced		labial	fricative	f	v
 esi	voiced	lateral	alveolar	approximant	l	l
