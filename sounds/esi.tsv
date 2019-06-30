@@ -1,28 +1,28 @@
-ISO 639-3   Voicing / Height    Secondary   Place   Manner  IPA Latin
-esi unvoiced        labial  stop    p   p
-esi unvoiced        alveolar    stop    t   t
-esi unvoiced        palatal  stop    c   t
-esi unvoiced        velar   stop    k   k
-esi unvoiced        uvular  stop    q   q
-esi voiced      labial  fricative   v   v
-esi unvoiced        labial  fricative   f   v
-esi voiced  lateral alveolar    approximant l   l
-esi unvoiced    lateral alveolar    fricative   ɬ   ł
-esi voiced  lateral palatal    approximant ʎ   ḷ
-esi unvoiced    lateral palatal    fricative   ʎ̥   ł
-esi unvoiced        alveolar    fricative   s   s
-esi voiced      palatal approximant j   y
-esi voiced      retroflex   fricative   ʐ   r
-esi unvoiced        retroflex   fricative   ʂ   sr
-esi voiced      velar   fricative   ɣ   g
-esi unvoiced        velar   fricative   x   kh
-esi voiced      uvular  fricative   ʁ   ġ
-esi unvoiced        uvular  fricative   χ   qh
-esi unvoiced        glottal fricative   h   h
-esi voiced      labial  nasal   m   m
-esi voiced      alveolar    nasal   n   n
-esi voiced      palatal    nasal   ɲ   ñ
-esi voiced      velar   nasal   ŋ   ŋ
-esi close       front   vowel   i   i
-esi close   labialized  back    vowel   u   u
-esi open        central vowel   ɐ   a
+ISO 639-3	Voicing / Height	Secondary	Place	Manner	IPA	Latin
+esi	unvoiced		labial	stop	p	p
+esi	unvoiced		alveolar	stop	t	t
+esi	unvoiced		palatal	stop	c	t
+esi	unvoiced		velar	stop	k	k
+esi	unvoiced		uvular	stop	q	q
+esi	voiced		labial	fricative	v	v
+esi	unvoiced		labial	fricative	f	v
+esi	voiced	lateral	alveolar	approximant	l	l
+esi	unvoiced	lateral	alveolar	fricative	ɬ	ł
+esi	voiced	lateral	palatal	approximant	ʎ	ḷ
+esi	unvoiced	lateral	palatal	fricative	ʎ̥	ł
+esi	unvoiced		alveolar	fricative	s	s
+esi	voiced		palatal	approximant	j	y
+esi	voiced		retroflex	fricative	ʐ	r
+esi	unvoiced		retroflex	fricative	ʂ	sr
+esi	voiced		velar	fricative	ɣ	g
+esi	unvoiced		velar	fricative	x	kh
+esi	voiced		uvular	fricative	ʁ	ġ
+esi	unvoiced		uvular	fricative	χ	qh
+esi	unvoiced		glottal	fricative	h	h
+esi	voiced		labial	nasal	m	m
+esi	voiced		alveolar	nasal	n	n
+esi	voiced		palatal	nasal	ɲ	ñ
+esi	voiced		velar	nasal	ŋ	ŋ
+esi	close		front	vowel	i	i
+esi	close	labialized	back	vowel	u	u
+esi	open		central	vowel	ɐ	a	
