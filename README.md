@@ -1,2 +1,1 @@
-# iyut
-Modelling utilities for the Inuit-Yupik language family
+# Modelling utilities for the Inuit-Yupik language family
