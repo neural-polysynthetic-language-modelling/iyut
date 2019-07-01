@@ -1,10 +1,9 @@
 ISO 639-3	Voicing / Height	Secondary	Place	Manner	IPA	Latin
 esi	unvoiced		labial	stop	p	p
 esi	unvoiced		alveolar	stop	t	t
-esi	unvoiced		palatal	stop	c	t
+esi	unvoiced		palatal	stop (affricate)	c (tʃ)	t (ch)
 esi	unvoiced		velar	stop	k	k
 esi	unvoiced		uvular	stop	q	q
-esi	unvoiced		palatal	affricate	tʃ	ch
 esi	voiced		labial	fricative	v	v
 esi	unvoiced		labial	fricative	f	v
 esi	voiced	lateral	alveolar	approximant	l	l
