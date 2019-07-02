@@ -1,18 +1,18 @@
-ISO 639-3	Voicing / Height	Secondary	Place	Manner	IPA	Latin
-ike	unvoiced		labial	stop	p	p
-ike	unvoiced		alveolar	stop	t	t
-ike	unvoiced		velar	stop	k	k
-ike	unvoiced		uvular	stop	q	q
-ike	voiced		velar	stop	g	g
-ike	voiced		labial	fricative	v	v
-ike	voiced	lateral	alveolar	approximant	l	l
-ike	unvoiced	lateral	alveolar	fricative	ɬ	ł
-ike	unvoiced		alveolar	fricative	s	s
-ike	voiced		palatal	approximant	j	y
-ike	voiced		uvular	fricative	ʁ	r
-ike	voiced		labial	nasal	m	m
-ike	voiced		alveolar	nasal	n	n
-ike	voiced		velar	nasal	ŋ	ng
-ike	close		front	vowel	i	i
-ike	close	labialized	back	vowel	u	u
-ike	open		front	vowel	a	a
+ISO 639-3	Voicing / Height	Secondary	Place	Manner	IPA	Latin	Inuktitut syllabics (consonants with -a)
+ike	unvoiced		labial	stop	p	p	ᐸ
+ike	unvoiced		alveolar	stop	t	t	ᑕ
+ike	unvoiced		velar	stop	k	k	ᑲ
+ike	unvoiced		uvular	stop	q	q	ᖃ
+ike	voiced		velar	stop	g	g	ᒐ
+ike	voiced		labial	fricative	v	v	ᕙ
+ike	voiced	lateral	alveolar	approximant	l	l	ᓚ
+ike	unvoiced	lateral	alveolar	fricative	ɬ	ł	ᖤ
+ike	unvoiced		alveolar	fricative	s	s	ᓴ
+ike	voiced		palatal	approximant	j	j	ᔭ
+ike	voiced		uvular	fricative	ʁ	r	ᕋ
+ike	voiced		labial	nasal	m	m	ᒪ
+ike	voiced		alveolar	nasal	n	n	ᓇ
+ike	voiced		velar	nasal	ŋ	ng	ᖓ
+ike	close		front	vowel	i	i	ᐃ
+ike	close	labialized	back	vowel	u	u	ᐅ
+ike	open		front	vowel	a	a	ᐊ
